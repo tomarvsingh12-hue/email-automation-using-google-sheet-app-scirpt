@@ -1,6 +1,8 @@
 📌 Google Sheets Payment Reminder Automation
 📖 Overview
-
+![Project Images](https://github.com/tomarvsingh12-hue/email-automation-using-google-sheet-app-scirpt/blob/main/S.png)
+![Project Images](https://github.com/tomarvsingh12-hue/email-automation-using-google-sheet-app-scirpt/blob/main/S2.png)
+![Project Images](https://github.com/tomarvsingh12-hue/email-automation-using-google-sheet-app-scirpt/blob/main/S3.png)
 This project automates sending payment reminder emails to customers directly from Google Sheets using Google Apps Script.
 
 With a single click, the script reads customer data from the sheet and sends personalized email reminders including:
